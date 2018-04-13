@@ -1,4 +1,4 @@
-## Temporal Convolutional Feature Pyramid Network (TCFPN) &amp; Iterative Soft Boundary Assignment (ISBA)
+## Temporal Convolutional Feature Pyramid Network (TCFPN) &amp; <br> Iterative Soft Boundary Assignment (ISBA)
 
 ### Introduction
 
