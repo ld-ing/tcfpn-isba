@@ -1,0 +1,18 @@
+Li Ding
+Mar. 2018
+
+For experimenting on the Breakfast Dataset, you can get it from http://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/
+
+The data used in the code is Frame-based precomputed reduced FV (64 dim): breakfast_data.tar.gz (~1GB) and Coarse segmentation information: segmentation_coarse.tar.gz
+
+After downloading the data, please extract them here. The structure should look like:
+data (or custom dir)/
+    + breakfast_data/
+        + s1/
+            + cereals/
+            + ...
+    + segmentation_coarse/
+        + cereals/
+        + ...
+
+You may also change the root directory 'data', which involves changing 'data_dir' in the code. However, the structure should remain the same.
